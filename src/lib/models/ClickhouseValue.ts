@@ -1,0 +1,1 @@
+export type ClickhouseValue = undefined | null | number | string | Date;
